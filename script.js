@@ -7,7 +7,7 @@ const PASSWORD = "786786111";
 const MAX_UPLOAD_MB = 25;                         // bigger files: use a link instead
 // The repository is found automatically from your GitHub Pages address.
 // Only fill this in if you use a custom domain, e.g. "abroaadarsh-cpu/indus-site".
-const REPO = "";
+const REPO = "abroaadarsh-cpu/abroaadarsh-cpu.github.io";
 const BRANCH = "main";
 function repoName(){
   if(REPO) return REPO;
